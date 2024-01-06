@@ -1,0 +1,23 @@
+- The human brain consists of two categories of specialized cells: neurons and glia.
+- Neurons are highly specialized and interconnected cellular units, forming the fundamental processing unit of the brain and central nervous system.
+- Neurons have different types, properties, shapes, and sizes, with basic properties including axons, cell bodies, dendrites, and axon terminals.
+- Axons transmit electrical signals, cell bodies contain the nucleus and specialized organelles, dendrites receive signals, and axon terminals communicate with other neurons.
+- Glia forms the majority of cells in the central nervous system, providing support, metabolic support for neurons, removing excessive secretions, and producing myelin for insulation.
+- The brain can be organized by cytoarchitectural organization, sociable brain structures, and sociable brain networks.
+- Cytoarchitectural organization is based on cellular composition, with Brodmann areas used to report neuroimaging findings.
+- Brodmann areas are not limited to the human brain and provide a comparison method with animal brain organization.
+- Detailed brain atlases, both printed and electronic, are available, showing named brain structures and their locations.
+- Sociable brain structures can be identified by cell type and anatomical boundaries on MRI scans or post-mortem tissues.
+- Sociable brain networks, like the striatum and medial temporal lobe, are formed by groups of interconnected structures.
+- There's a rudimentary anatomical classification based on six lobes: frontal, parietal, occipital, temporal, limbic, and insular cortex.
+- This classification is still valid today, as broadly organized structural areas have common functions associated with them.
+
+- The module focuses on the vascular anatomy of the human brain.
+- The brain requires a significant amount of energy and oxygen, supplied by a complex system of arteries and veins.
+- An angiogram illustrates the blood supply to the head and brain, emphasizing the intricate innervation of the blood supply.
+- The internal carotid artery, originating from the aorta, is crucial for supplying blood to the brain.
+- The Circle of Willis acts as a significant junction for the distribution of blood to specific brain areas.
+- Blood is distributed from the Circle of Willis to various arteries and veins, supplying specific brain regions.
+- Specific arteries, including the anterior cerebral artery, middle cerebral artery, and posterior cerebral artery, play key roles in providing organized blood supply.
+- The highly organized system of blood vessels creates specific cortical vascular territories in the brain.
+- Neuro-imaging methods benefit from understanding the specific origin of blood supply, aiding in delineating areas of the cortex.

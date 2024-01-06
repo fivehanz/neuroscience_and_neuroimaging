@@ -1,0 +1,10 @@
+- The module covers the terminology of brain organization used in MRI research.
+- For vertebrate nervous systems, the rostral-caudal axis denotes the front and back, and the dorso-ventral axis denotes the top and bottom.
+- In humans, anterior and posterior replace rostral and caudal, while superior and inferior replace dorso-ventral.
+- Medial refers to towards the center axis, and lateral refers to moving away from the center axis.
+- Specific terms exist for the planes used in MRI research: frontal, transverse (horizontal), and sagittal.
+- Coronal, axial, and sagittal are the corresponding labels for MRI image orientations.
+- These terms help describe relative positioning and structures in the brain, crucial for fMRI research.
+- Left versus right in MRI images depends on the convention used: radiological (left corresponds to the right side of the person) or neurological (left corresponds to the left side of the person).
+- Fiduciary markers are used to indicate the right side in MRI images, avoiding confusion in reporting results.
+- Additional terms include proximal (closer to the point of attachment), distal (further from the point of attachment), ipsilateral (same side of the brain), contralateral (other side of the brain), and oblique plane (neither horizontal nor vertical).
